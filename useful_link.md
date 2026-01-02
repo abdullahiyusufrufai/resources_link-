@@ -6,6 +6,8 @@ Supper data sciennce course slide >> https://online.fliphtml5.com/grdgl/qwmz/#p=
 
 ## super data science project 
 
+Learning Materials >> https://www.superdatascience.com/machine-learning-classification-materials
+
 Module 1: Breast Cancer Classification >> https://www.superdatascience.com/wp-content/uploads/2018/12/P39-Breast-Cancer-Python-Code-1.zip
 
 Module 2: Fashion Class Classification >> https://www.superdatascience.com/wp-content/uploads/2018/12/P39-Fashion-MNIST-Datasets-1.zip
