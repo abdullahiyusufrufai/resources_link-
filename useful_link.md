@@ -24,3 +24,6 @@ Module 5: Predicting the likelihood of e-signing a loan based on financial histo
                                                                                       https://www.superdatascience.com/wp-content/uploads/2018/12/P39-CS5-Python-Code-1.zip
 
 Module 6: Credit card fraud detection >> https://www.superdatascience.com/wp-content/uploads/2018/12/P39-Credit-Card-Fraud-1.zip
+
+
+Awesome CS Courses >> https://github.com/prakhar1989/awesome-courses
