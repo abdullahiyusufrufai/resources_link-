@@ -1,3 +1,5 @@
+## explore the links as much as you can and try to contribute 
+
 Google link to machine learning resource >> https://drive.google.com/drive/folders/1D0w7UjTJlCEQNj6GXvqCgvlLPbsaCnG_?usp=drive_link
 
 Colab Notebooks on supperdatasciennce >> https://drive.google.com/drive/folders/1_7HuNqV-4Q_F2P20q2iWb2wS1gXYJcJN
@@ -6,7 +8,7 @@ Supper data science course slide >> https://online.fliphtml5.com/grdgl/qwmz/#p=1
 
 tech around the word >> https://drive.google.com/drive/folders/1L6Tfdf2DF7EkleStIZddxMyETY4c7_IV
 
-## super data science project 
+#### super data science project 
 
 Learning Materials >> https://www.superdatascience.com/machine-learning-classification-materials
 
